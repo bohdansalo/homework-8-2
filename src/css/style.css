@@ -1,0 +1,106 @@
+.monday-one:hover {
+  color: rgb(94, 15, 15);
+}
+.monday-two {
+  color: rgb(255, 110, 110);
+}
+.monday-three {
+  color: rgb(213, 213, 214);
+}
+.monday-four {
+  color: rgb(49, 161, 236);
+}
+.monday-five {
+  color: rgb(66, 1, 55);
+}
+.monday-six {
+  color: rgb(250, 87, 187);
+}
+.monday-seven {
+  color: rgb(255, 191, 0);
+}
+.tuesday-one:disabled {
+  color: rgb(5, 99, 71);
+}
+.tuesday-two {
+  color: rgb(68, 3, 25);
+}
+.tuesday-three {
+  color: rgb(65, 55, 75);
+}
+.tuesday-four {
+  color: rgb(254, 0, 89);
+}
+.tuesday-five {
+  color: rgb(107, 49, 49);
+}
+.tuesday-six {
+  color: rgb(53, 100, 21);
+}
+.tuesday-seven {
+  color: rgb(253, 143, 0);
+}
+.wednesday-one:hover {
+  color: rgb(164, 27, 168);
+  background-color: black;
+}
+.wednesday-two {
+  color: rgb(22, 53, 53);
+}
+.wednesday-three {
+  color: rgb(121, 23, 91);
+}
+.wednesday-four {
+  color: rgb(66, 46, 8);
+}
+.wednesday-five {
+  color: rgb(109, 41, 187);
+}
+.wednesday-six {
+  color: rgb(77, 95, 39);
+}
+.wednesday-seven {
+  color: rgb(87, 8, 8);
+}
+.thursday-one-link:link {
+  color: rgba(199, 141, 120, 0.007);
+}
+.thursday-two {
+  color: rgb(218, 82, 218);
+}
+.thursday-three {
+  color: rgb(37, 31, 32);
+}
+.thursday-four {
+  color: rgb(255, 134, 47);
+}
+.thursday-five {
+  color: rgb(53, 12, 12);
+}
+.thursday-six {
+  color: rgb(77, 29, 77);
+}
+.thursday-seven {
+  color: greenyellow;
+}
+.friday-one-link:visited {
+  color: rgb(10, 109, 10);
+}
+.friday-two {
+  color: rgb(22, 20, 1);
+}
+.friday-three {
+  color: rgb(218, 34, 80);
+}
+.friday-four {
+  color: rgb(172, 153, 50);
+}
+.friday-five {
+  color: rgb(121, 4, 121);
+}
+.friday-six {
+  color: rgb(73, 73, 255);
+}
+.friday-seven {
+  color: rgb(4, 97, 46);
+}
